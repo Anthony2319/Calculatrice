@@ -1,0 +1,26 @@
+.calculatrice{
+    height: 200px;
+    margin: 2px;
+    border: 1px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .screen {
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 1px solid gray;
+    margin: 5%;
+  }
+  
+  button {
+    display: flex;
+    width: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(197, 192, 184);
+    color: white;
+  }
